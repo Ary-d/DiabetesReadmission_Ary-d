@@ -1,6 +1,5 @@
 # DiabetesReadmission_Ary-d
-This project attempts to create a machine learning classification tool that as accurately as possible classifies 
-whether a person with diabetes will be readmitted within 30 days, in more than 30 days, or not readmitted at all.
+This project attempts to create a machine learning classification tool that as accurately as possible classifies whether a person with diabetes will be readmitted within 30 days, in more than 30 days, or not readmitted at all.
 The models tried are all from sklearn-
 LogisticRegression with penalty=none,l1,l2 and elasticnet
 RandomForestClassifier
@@ -23,3 +22,5 @@ The dependencies used are as follows-
   - jupyterlab_server
   - jupytext
   - rise
+
+A yaml file with the appropriate package versions is included in the repository.
